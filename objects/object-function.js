@@ -23,7 +23,7 @@
 
 let convertTemp = function(fahreheit){
        let celcius = (fahreheit - 32) * (5/9)
-       let = kelvin = celcius + 273
+       let kelvin = celcius + 273
 
        return {
           tempFahr: fahreheit,
